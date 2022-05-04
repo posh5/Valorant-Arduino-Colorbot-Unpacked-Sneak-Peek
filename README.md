@@ -4,7 +4,7 @@
 - This is only a sneak peek, to purchase check below.
 
 ## Background Information:
-Dreamz is the "brand" of this arduino cheat. The developer of this cheat is by a person of the name "iChqnge" and managed by "Dreamz". Their colorbot's mouse movement is made possible through the use of an arduino with an ATmega32u4 chip and "synaptics.exe" which I've not looked into yet. Some time ago, when they had poor protection, their cheat was cracked by a Turkish paster called: PythonP who cracks and sells other software. PythonP uses this source as the base as well which should result to nearly identitical code. Dreamz and I have had very poor experiences with each other and overall I ended with a loss, somewhat being accidentally "scammed" in the process. Recent news says that PythonP scammed one of his customers as well, which I won't get into details here since it diverts from relevance. 
+Dreamz is the "brand" of this arduino cheat. The developer of this cheat is by a person of the name "iChqnge" and managed by "Dreamz". Their colorbot's mouse movement is made possible through the use of an arduino with an ATmega32u4 chip and "synaptics.exe" which I've not looked into yet. Some time ago, when they had poor protection, their cheat was cracked by a Turkish paster called: PythonP who cracks and sells other software. PythonP uses this source as the base as well which should result to nearly identitical code. Dreamz and I have had very poor experiences with each other and overall I ended with a loss, somewhat being accidentally "scammed" in the process. Recent news says that PythonP scammed one of his customers as well, which I won't get into details here since it diverts from relevance. Last but not least, they used a custom obfuscator.
 
 
 ## Features:
