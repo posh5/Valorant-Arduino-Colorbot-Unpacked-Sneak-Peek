@@ -1,5 +1,17 @@
 # Valorant-Arduino-Colorbot-Unpacked
-Quick sneakpeak of an unpacked version of a Valorant arduino cheat made in C#.
+- Quick sneakpeak of an unpacked version of a Valorant arduino cheat made in C#.
+- -> .NET Framework 4.8
+
+## Features:
+- Registration / Login
+- COM PORT
+- Aimbot
+-  -> Speed & FOV change
+- Recoil control
+- Changeable Hotkey (Aim key)
+- Triggerbot
+- Configs
+-  -> Configs for different types of guns
 
 # Please note that many of these images are blurry due to GitHub, just click on the image to see a more clear version.
 # Cheers :beers:
