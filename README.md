@@ -2,7 +2,7 @@
 Quick sneakpeak of an unpacked version of a Valorant arduino cheat made in C#.
 
 ## Dreamz Basic Assembly Information
-- ![Dreamz Assembly Information](https://media.discordapp.net/attachments/959681858617098293/971237299742470204/unknown.png?width=1440&height=575)
+- ![Dreamz Assembly Information](https://user-images.githubusercontent.com/104591599/166617245-518e5dda-d85c-4532-97c3-88323e4746a0.png)
 
 ## Dreamz & Costura
 - ![Dreamz Main](https://media.discordapp.net/attachments/959681858617098293/971237782511030352/unknown.png?width=639&height=676)
@@ -12,5 +12,6 @@ Quick sneakpeak of an unpacked version of a Valorant arduino cheat made in C#.
 
 - ![API](https://media.discordapp.net/attachments/796516046797930543/971238911579947068/unknown.png?width=1440&height=657)
 
-![image](https://user-images.githubusercontent.com/104591599/166617165-4f2dc126-2bbd-4173-accc-a5988619ee23.png)
+
+- ![image](https://user-images.githubusercontent.com/104591599/166617165-4f2dc126-2bbd-4173-accc-a5988619ee23.png)
 
