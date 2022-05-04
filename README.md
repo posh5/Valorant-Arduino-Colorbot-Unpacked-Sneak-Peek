@@ -1,6 +1,12 @@
 # Valorant-Arduino-Colorbot-Unpacked
-- Quick sneakpeak of an unpacked version of a Valorant arduino cheat made in C#.
+- Quick sneak peek of an unpacked version of a Valorant arduino cheat made in C#.
 - -> .NET Framework 4.8
+- This is only a sneak peek, to purchase check below.
+
+## Background Information:
+Dreamz is the "brand" of this arduino cheat. The developer of this cheat is by a person of the name "iChqnge" and managed by "Dreamz".
+Their colorbot's mouse movement is made possible through the use of an arduino with an ATmega32u4 chip and "synaptics.exe" which I've not looked into yet.
+
 
 ## Features:
 - Registration / Login
