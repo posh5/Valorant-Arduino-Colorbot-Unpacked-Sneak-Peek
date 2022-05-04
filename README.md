@@ -32,7 +32,7 @@ Dreamz is the "brand" of this arduino cheat. The developer of this cheat is by a
 - ![API](https://user-images.githubusercontent.com/104591599/166617327-4e39db33-66bb-4128-9416-81f3f22a366d.png)
 
 ## Dreamz's Pixel Search / Scan method
-- ![PXLSRCH](https://user-images.githubusercontent.com/104591599/166617165-4f2dc126-2bbd-4173-accc-a5988619ee23.png)
+- ![PXLSRCH](https://user-images.githubusercontent.com/104591599/166619271-3076d988-c920-4145-b9eb-8d800e4e2230.png)
 
 ## Dreamz's Aim
 - ![Aim Update](https://user-images.githubusercontent.com/104591599/166617445-4ff129a9-91a0-48e4-ba53-6bff0394fff6.png)
